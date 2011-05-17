@@ -1,12 +1,11 @@
 Name: x11-font-misc
 Version: 1.0.0
-Release: %mkrel 9
+Release: %mkrel 10
 Summary: X11 misc fonts
 Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License: GPL
 BuildArch: noarch
-BuildRequires: fontconfig
 Requires: x11-font-arabic-misc
 Requires: x11-font-cursor-misc
 Requires: x11-font-daewoo-misc
