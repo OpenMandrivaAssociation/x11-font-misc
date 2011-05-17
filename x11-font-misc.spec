@@ -6,6 +6,7 @@ Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License: GPL
 BuildArch: noarch
+BuildRequires: fontconfig
 Requires: x11-font-arabic-misc
 Requires: x11-font-cursor-misc
 Requires: x11-font-daewoo-misc
