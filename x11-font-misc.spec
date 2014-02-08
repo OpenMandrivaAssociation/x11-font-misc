@@ -1,6 +1,6 @@
 Name: x11-font-misc
 Version: 1.0.0
-Release: %mkrel 12
+Release: 13
 Summary: X11 misc fonts
 Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
